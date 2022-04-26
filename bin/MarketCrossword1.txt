@@ -1,0 +1,51 @@
+0 0 BLUECACTUS
+Where the sad and prickly dine
+4 1 CESTBON
+It's a good cooking school
+6 1 CHAMPLAIN
+Ottawa River explorer
+0 1 BRIGID
+Patron saint of beer
+9 1 SASLOVES
+Meat in the market
+36 0 MEAL
+Consumed on a patio
+30 0 GUEST
+Hotel client
+24 0 SPA
+Smudge is one
+61 0 TOWN
+Neighborhood, Lower ...
+82 0 MAMAN
+The mother of all sculptures
+66 0 ALOE
+Soothing plant at 5 across
+52 1 BOOMS
+River log holder
+90 0 TASTE
+Menu at Play
+84 1 ME
+What I call myself
+83 1 AT
+The Market is where it's ..
+CWSUGGESTIONS
+0 0 BLUECACTUS
+Where the sad and prickly dine
+51 0 MAJORSHILL
+Not a minor park
+4 1 CESTBON
+It's a good cooking school
+6 1 CHAMPLAIN
+Ottawa explorer, river, not city
+-543 0 MAMAM
+
+-543 0 PATRICK
+Viper free street
+-543 0 PATIO
+Viper free street
+0 1 BRIGID
+Patron saint of beer
+-543 0 BOTTEGA
+Nicastro's cousin
+9 1 SASLOVES
+Meat in the market
